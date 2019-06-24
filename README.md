@@ -12,10 +12,10 @@ Para testar em uma máquina local, é necessário utilizar as seguintes configur
 *	Versão do Python 2.7.15
 *	apache-beam 2.13.0
 ## Arquivos
-* **abandoned-basket-only-python.py** (Apresenta do desafio sem implementar utilizar o apache beam)
+* **abandoned-basket-only-python.py** (Apresenta o desafio sem implementar ou utilizar o Apache Beam)
 * **abandoned-basket-trying-use-pipeline.py** (Neste arquivo é apresentado como seria a estrutura se 
 conseguisse implementar utilizando o apache beam )
-* **input** (Nesse diretório está o arquivo no qual contém uma arquivo com a extensão (.json))
+* **input** (Nesse diretório está o arquivo no qual contém um arquivo com a extensão (.json))
 * **output** (Nesse diretório está o arquivo de saída, conforme o teste solicita.)
 ## Abordagem do desafio
 
